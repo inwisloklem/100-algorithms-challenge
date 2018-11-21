@@ -1,0 +1,16 @@
+{
+  "name": "100-algorithms-challenge",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "license": "MIT"
+}
